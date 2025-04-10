@@ -1,2 +1,9 @@
-gunicorn
 Flask==2.2.5
+Flask-Cors==3.0.10
+gunicorn==21.2.0
+requests
+beautifulsoup4
+schedule
+flask_sqlalchemy
+flask_mail
+apscheduler
